@@ -4,4 +4,4 @@
 <a>คณะ เทคโนโลยีสารสนเทศ</a><br>
 <a>สาขา คอมพิวเตอร์ธุรกิจ</a><br>
 <a>มหาวิทยาลัยเนชั่น จังหวัดสำปาง</a><br>
-<a href="viewnytest.atwebpages.com/feame.php">->36Pyramid<-</a>
+<a href="http://viewnytest.atwebpages.com/feame.php">->36Pyramid<-</a>
